@@ -48,7 +48,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- 
+
 ## Author
 
 - Frontend Mentor - [@SAM7858] (https://www.frontendmentor.io/profile/SAM7858)
