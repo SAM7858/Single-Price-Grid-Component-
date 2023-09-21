@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="images/Screen Shot Mobile.png" width="50" height="50">
+<img src="images/Screen Shot Mobile.png" width="100" height="100">
 <br>
 <img src="images/Screen Shot Desktop.png">
 
