@@ -35,9 +35,10 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="images/Screen Shot Mobile.png">
+<img src="images/Screen Shot Mobile.png" width="50" height="50">
 <br>
 <img src="images/Screen Shot Desktop.png">
+
 ## My process
 
 ### Built with
